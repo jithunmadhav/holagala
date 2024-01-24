@@ -1,0 +1,112 @@
+.outer-body{
+    width: 100%;
+    height: auto;
+    background-color: #fdf0d3;
+}
+.body-h2{
+    color: #01875e;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: -28px;
+    font-size: 45px;
+}
+.body-p{
+    max-width: 1200px;
+    font-size: 20px;
+    font-family: monospace;
+    position: absolute;
+    left: 18%;
+    padding-top: 15px;
+    color: #4f4f4f;
+
+}
+.img-div{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 65px;
+}
+.body-img{
+    width: 800px;
+    margin-top: 250px;
+
+}
+.body-p2{
+    text-align: center;
+    font-weight: bold;
+    color: #555;
+}
+.circle-outerdiv{
+    height: 40vh;
+    width: 80%;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 80px;
+}
+.inner-circle1{
+    background-color: #ec274a;
+    width: 250px;
+    height: 250px;
+    border-radius: 130px;
+}
+.inner-circle2{
+    background-color: #7b3185;
+    width: 250px;
+    height: 250px;
+    border-radius: 130px;
+}
+.inner-circle3{
+    background-color:#058460;
+    width: 250px;
+    height: 250px;
+    border-radius: 130px;
+}
+.inner-circle4{
+    background-color: #f08f20;
+    width: 250px;
+    height: 250px;
+    border-radius: 130px;
+}
+.inner-circle-p1{
+    padding-top: 55px;
+   text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    color: white;
+}
+.inner-circle-p2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    color: white;
+}
+.sponser-img-div{
+    display: flex;
+    justify-content: center;
+}
+.sponser-img1{
+    width: 150px;
+    height: 60px;
+    padding-top: 20px;
+}
+.sponser-img2{
+    width: 650px;
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+.fixed-buy-button{
+    position: fixed;
+    right: 1%;
+    bottom: 6%;
+    width: 160px;
+    height: 55px;
+    background-color: #6c2eb9;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
+.fixed-buy-button:hover{
+    background-color: #41107d;
+}
