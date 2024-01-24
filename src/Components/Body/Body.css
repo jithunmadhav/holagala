@@ -155,4 +155,11 @@
         font-size: 20px;
         cursor: pointer;
     }
+    .body-h2{
+        color: #01875e;
+        text-align: center;
+        margin-bottom: 20px;
+        margin-top: -28px;
+        font-size: 30px;
+    }
 }
