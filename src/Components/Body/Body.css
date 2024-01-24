@@ -113,7 +113,7 @@
 @media(max-width:700px) {
     .body-img {
         width: 382px;
-        margin-top: 250px;
+        margin-top: 130px;
     }
     .body-p {
         max-width: 1200px;
@@ -134,7 +134,7 @@
         margin-bottom: 40px;
         display: flex;
         justify-content: space-evenly;
-        padding-top: 80px;
+        padding-top: 0px;
         flex-direction: column;
     }
     .sponser-img2 {
@@ -144,7 +144,7 @@
     }
     .fixed-buy-button {
         position: fixed;
-        right: 18%;
+        right: 8%;
         bottom: 6%;
         width: 140px;
         height: 48px;
