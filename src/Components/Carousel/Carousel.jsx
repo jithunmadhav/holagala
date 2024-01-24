@@ -6,8 +6,8 @@ function Carousel_section() {
     <Carousel data-bs-theme="dark">
       <Carousel.Item>
         <img
-        style={{ backgroundColor:'#ec274a', height:'600px' }}
-          className="d-block w-100"
+        style={{ backgroundColor:'#ec274a' }}
+          className="d-block w-100 carousel-img"
           src="https://www.holagala.in/banner1.png"
           alt="First slide"
         />
@@ -15,8 +15,7 @@ function Carousel_section() {
       </Carousel.Item>
       <Carousel.Item>
         <img
-        style={{ height:'600px' }}
-          className="d-block w-100"
+          className="d-block w-100 carousel-img"
           src="https://www.holagala.in/banner2.jpg"
           alt="Second slide"
         />
@@ -24,8 +23,7 @@ function Carousel_section() {
       </Carousel.Item>
       <Carousel.Item>
         <img
-          style={{ height:'600px' }}
-          className="d-block w-100"
+          className="d-block w-100 carousel-img"
           src="https://www.holagala.in/banner3.png"
           alt="Third slide"
         />

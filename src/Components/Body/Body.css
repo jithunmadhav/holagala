@@ -110,3 +110,49 @@
 .fixed-buy-button:hover{
     background-color: #41107d;
 }
+@media(max-width:700px) {
+    .body-img {
+        width: 382px;
+        margin-top: 250px;
+    }
+    .body-p {
+        max-width: 1200px;
+        font-size: 8px;
+        font-family: monospace;
+        position: absolute;
+        left: 4%;
+        padding-top: 15px;
+        color: #4f4f4f;
+    }
+    .img-div{
+        display: flex;
+        margin-bottom: 65px;
+    }
+    .circle-outerdiv {
+        height: 170vh;
+        width: 66%;
+        margin-bottom: 40px;
+        display: flex;
+        justify-content: space-evenly;
+        padding-top: 80px;
+        flex-direction: column;
+    }
+    .sponser-img2 {
+        width: 184px;
+        padding-top: 50px;
+        margin-bottom: 50px;
+    }
+    .fixed-buy-button {
+        position: fixed;
+        right: 18%;
+        bottom: 6%;
+        width: 140px;
+        height: 48px;
+        background-color: #6c2eb9;
+        color: white;
+        border-radius: 5px;
+        font-weight: bold;
+        font-size: 20px;
+        cursor: pointer;
+    }
+}
